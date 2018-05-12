@@ -1,0 +1,33 @@
+_repo: On-the-Supply-of-Printed-Books-from-the-Library-to-the-Reading-Room-of-the-British-Museum_39087
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Panizzi, Anthony, Sir
+    aliases:
+    - Panizzi, Antonio, Sir
+    - Panizzi, A. (Anthony), Sir
+    birthdate: 1797
+    deathdate: 1879
+    gutenberg_agent_id: '39837'
+    url: http://www.gutenberg.org/2009/agents/39837
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Panizzi
+description: ''
+gutenberg_issued: '2012-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39087'
+  lccn: 06043491
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Libraries -- Great Britain'
+- !lcsh 'British Museum'
+title: On the Supply of Printed Books from the Library to the Reading Room of the
+  British Museum
+url: http://www.gutenberg.org/ebooks/39087
